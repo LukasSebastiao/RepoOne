@@ -16,3 +16,13 @@
 * 😊
 * 😁
 * 👍
+# Keyboard shortcuts
+Shortcuts I regularly use:
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+- Ctrl-A (select all)
+- Alt-Tab (switch tabs)
+Shortcuts I would like to start using: 
+- Win-D (show desktop)
+- Ctrl-S (save document or file)

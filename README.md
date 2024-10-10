@@ -23,3 +23,5 @@ Shortcuts I regularly use:
 - Ctrl-Z (undo)
 - Ctrl-A (select all)
 - Alt-Tab (switch tabs)
+
+[CLI commands](docs/cli.md)

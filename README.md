@@ -24,4 +24,4 @@ Shortcuts I regularly use:
 - Ctrl-A (select all)
 - Alt-Tab (switch tabs)
 
-[CLI commands](docs/cli.md)
+[CLI commands](Docs/cli.md)

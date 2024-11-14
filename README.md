@@ -25,3 +25,5 @@ Shortcuts I regularly use:
 - Alt-Tab (switch tabs)
 
 [CLI commands](Docs/cli.md)
+
+[https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/kamrik/IntroText/refs/heads/main/examples/sql/t177.db](url)
